@@ -8,7 +8,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Style your Windows terminal and use WSL and PowerShell like a pro](https://dev.to/hjgraca/style-your-windows-terminal-and-use-wsl-and-powershell-like-a-pro-57fp)
+- [Style your Windows terminal and use WSL and PowerShell like a pro](https://medium.com/@hjgraca/style-your-windows-terminal-and-wsl2-like-a-pro-9a2e1ad4c9d0?source=rss-29194cdedab1------2)
 - [Using WSL2 + Visual Studio Code for Jekyll blogging on Windows 10](https://dev.to/hjgraca/using-wsl2-visual-studio-code-for-jekyll-blogging-on-windows-10-516g)
+- [Using WSL2 + Visual Studio Code for Jekyll blogging on Windows 10](https://medium.com/@hjgraca/using-wsl2-visual-studio-code-for-jekyll-blogging-on-windows-10-99489deb4650?source=rss-29194cdedab1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools:
