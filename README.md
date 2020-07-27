@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Henrique</h1>
+<h3 align="center">Distributed systems architecture is my passion</h3>
 
-<!--
-**hjgraca/hjgraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📝 I regulary write articles on [https://medium.com/@hjgraca](https://medium.com/@hjgraca)
 
-Here are some ideas to get you started:
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hjgraca&show_icons=true" alt="hjgraca" /> </p>
+
+<p align="center">
+<a href="https://dev.to/hjgraca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hjgraca" height="20" width="20" /></a>
+<a href="https://twitter.com/hjgraca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hjgraca" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/hjgraca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hjgraca" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/727141" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="727141" height="20" width="20" /></a>
+<a href="https://medium.com/@hjgraca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hjgraca" height="20" width="20" /></a>
+</p>
