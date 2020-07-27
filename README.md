@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Henrique</h1>
 <h3 align="center">Distributed systems is my passion</h3>
 
+- 🔭 I’m currently working on **Azure**
+- 🌱 I’m currently learning **Go, Rust**
+- 💬 Ask me about **Kubernetes, Azure**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Style your Windows terminal and use WSL and PowerShell like a pro](https://dev.to/hjgraca/style-your-windows-terminal-and-use-wsl-and-powershell-like-a-pro-57fp)
