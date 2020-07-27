@@ -7,12 +7,12 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### Languages and Tools:
+
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center"> </p>
 
-### Stats
-
-![Chris' github stats](https://github-readme-stats.vercel.app/api?username=hjgraca&show_icons=true&hide_border=true&count_private=true)
-![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hjgraca&hide=TeX&layout=compact&count_private=true)
+![Hernique' github stats](https://github-readme-stats.vercel.app/api?username=hjgraca&show_icons=true&hide_border=true&count_private=true)
+![Henrique' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hjgraca&hide=TeX&layout=compact&count_private=true)
 
 
 <p align="center">
