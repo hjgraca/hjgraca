@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henrique</h1>
-<h3 align="center">Distributed systems is my passion</h3>
+<h3 align="center">Software Engineering and Distributed systems is my passion</h3>
 
 - 🔭 I’m currently working on **AWS**, previously **Azure**
 - 🌱 I’m currently learning **Go, Rust**
-- 💬 Ask me about **Kubernetes, Azure**
+- 💬 Ask me about **Kubernetes, Azure, AWS, C#**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
