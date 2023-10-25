@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AWS**, previously **Azure**
 - 🌱 I’m currently learning **Go, Rust**
-- 💬 Ask me about **Kubernetes, Azure, AWS, C#**
+- 💬 Ask me about **Kubernetes, Azure, AWS, Serverless, C#**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
