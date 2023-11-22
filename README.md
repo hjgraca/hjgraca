@@ -1,9 +1,25 @@
+
 <h1 align="center">Hi 👋, I'm Henrique</h1>
+
+<p align="center">
+<img src="https://github.com/hjgraca/hjgraca/assets/999396/729b144f-9cef-480a-8afb-ca3690c8c55e" style="display: block;margin-left: auto;margin-right: auto" width="400" />
+</p>
+
+<p align="center">
+<a href="https://dev.to/hjgraca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hjgraca" height="20" width="20" /></a>
+<a href="https://twitter.com/hjgraca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hjgraca" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/hjgraca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hjgraca" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/727141" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="727141" height="20" width="20" /></a>
+<a href="https://medium.com/@hjgraca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hjgraca" height="20" width="20" /></a>
+</p>
+
 <h3 align="center">Passionate about Software Engineering and Distributed systems</h3>
 
 - 🔭 I’m currently working on **AWS**, previously **Azure**
 - 🌱 I’m currently learning **Go, Rust**
 - 💬 Ask me about **Kubernetes, Azure, AWS, Serverless, C#**
+
+<a href="https://stackexchange.com/users/375981"><img src="https://stackexchange.com/users/flair/375981.png" width="208" height="58" alt="profile for hjgraca on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for hjgraca on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -15,21 +31,23 @@
 
 ### Languages and Tools:
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="20" height="20"/>
-</p>
-<p align="center"> </p>
-
-<a href="https://stackexchange.com/users/375981"><img src="https://stackexchange.com/users/flair/375981.png" width="208" height="58" alt="profile for hjgraca on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for hjgraca on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 ![Hernique github stats](https://github-readme-stats.vercel.app/api?username=hjgraca&show_icons=true&hide_border=true&count_private=true)
-![Henrique Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hjgraca&hide=TeX&layout=compact&count_private=true)
+![Henrique Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hjgraca&count_private=true)
 
 
-<p align="center">
-<a href="https://dev.to/hjgraca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hjgraca" height="20" width="20" /></a>
-<a href="https://twitter.com/hjgraca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hjgraca" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/hjgraca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hjgraca" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/727141" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="727141" height="20" width="20" /></a>
-<a href="https://medium.com/@hjgraca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hjgraca" height="20" width="20" /></a>
-</p>
