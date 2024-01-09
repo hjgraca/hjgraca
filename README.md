@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Henrique</h1>
 
 <p align="center">
-<img src="https://github.com/hjgraca/hjgraca/assets/999396/729b144f-9cef-480a-8afb-ca3690c8c55e" style="display: block;margin-left: auto;margin-right: auto" width="400" />
-</p>
-
-<p align="center">
 <a href="https://dev.to/hjgraca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hjgraca" height="20" width="20" /></a>
 <a href="https://twitter.com/hjgraca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hjgraca" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/hjgraca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hjgraca" height="20" width="20" /></a>
